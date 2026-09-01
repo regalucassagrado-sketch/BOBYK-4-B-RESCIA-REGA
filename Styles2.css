@@ -1,0 +1,32 @@
+*{
+    margin: 0%;
+
+    box-sizing: border-box;
+
+    margin: 0%;
+}
+
+
+
+h1{
+color: brown;
+
+margin-bottom: 1.5rem;
+
+
+text-align: center;
+}
+
+footer{
+color: chocolate;
+
+
+    text-align: center;
+}
+
+body{
+font-style: oblique;
+color: blue;
+
+
+}
